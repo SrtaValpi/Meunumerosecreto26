@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = [];
-let numeroLimite = 70;
+let numeroLimite = 27;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 console.log("Oi.pq pq tudo nao foi diferente???");
