@@ -3,7 +3,7 @@ let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
-console.log("Oi.pq pq tudo nao foi diferente???");
+console.log("Oi.eu quero passar as ferias com vc!!");
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
     campo.innerHTML = texto;
