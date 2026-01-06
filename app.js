@@ -1,3 +1,4 @@
+console.log('iniciando');
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
