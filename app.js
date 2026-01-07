@@ -1,4 +1,5 @@
 alert ("Oi");
+alert("tudo ok?");
 console.log('Deus me dá a vitória');
 console.log('Alegria minha');
 let listaDeNumerosSorteados = [];
