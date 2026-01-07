@@ -1,6 +1,6 @@
 
 console.log('Deus me dá a vitória');
-console.log('Alegria');
+console.log('Alegria minha');
 let listaDeNumerosSorteados = [];
 let numeroLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio();
