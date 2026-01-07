@@ -1,4 +1,5 @@
-console.log('iniciando');
+console.log('Deus me dá a vitória');
+console.log('Alegria';
 let listaDeNumerosSorteados = [];
 let numeroLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio();
