@@ -1,4 +1,4 @@
-
+alert ("Oi");
 console.log('Deus me dá a vitória');
 console.log('Alegria minha');
 let listaDeNumerosSorteados = [];
