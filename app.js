@@ -2,7 +2,7 @@ alert ("Oi");
 console.log('Deus me dá a vitória');
 console.log('Alegria minha');
 let listaDeNumerosSorteados = [];
-let numeroLimite = 100;
+let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 function exibirTextoNaTela(tag, texto) {
